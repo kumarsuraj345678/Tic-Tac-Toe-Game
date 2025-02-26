@@ -38,7 +38,7 @@ This repository contains a functional Tic-Tac-Toe game implemented using HTML, C
 
 You can also play the game online at the following deployed link:
 
-* [https://t3challenge.netlify.app/](https://t3challenge.netlify.app/)
+* [Tic Tac Toe](https://kumarsuraj345678.github.io/Tic-Tac-Toe-Game/)
 
 **Future Improvements:**
 
