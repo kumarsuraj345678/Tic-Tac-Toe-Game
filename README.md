@@ -13,17 +13,14 @@ This repository contains a functional Tic-Tac-Toe game implemented using HTML, C
 **Screenshots:**
 
 *Image of Tic-Tac-Toe game board:*
-![Screenshot (322)](https://github.com/surajkumar345678/Tic-Tac-Toe-Game/assets/60316890/2a74124f-8da8-4d2a-a104-6842c4590171)
+![Macbook-Air-1559x975](https://github.com/user-attachments/assets/5b74c31a-613c-4435-963d-e6087901f7bd)
 
-![Screenshot (323)](https://github.com/surajkumar345678/Tic-Tac-Toe-Game/assets/60316890/95d05d32-04a8-4554-9f53-1dad2f0991a1)
+![Macbook-Air-1559x975](https://github.com/user-attachments/assets/d8b0c319-4088-4bd3-9fff-d4a5bd417d13)
 
-*Image of Tic-Tac-Toe game with a winning message:*
-![Screenshot (324)](https://github.com/surajkumar345678/Tic-Tac-Toe-Game/assets/60316890/3c42b938-3b24-45ec-b0fa-14914a29839e)
+*Image of Tic-Tac-Toe game with message:*
+![Macbook-Air-1559x975](https://github.com/user-attachments/assets/cf679f7a-8bac-4b9c-8161-f99ef201307e)
 
-![Screenshot (325)](https://github.com/surajkumar345678/Tic-Tac-Toe-Game/assets/60316890/9c03bbe2-9577-47a9-839a-8e3276a328b1)
-
-![Screenshot (326)](https://github.com/surajkumar345678/Tic-Tac-Toe-Game/assets/60316890/0f7cacd7-e9a1-4c49-856a-01a49996150f)
-
+![Macbook-Air-1559x975](https://github.com/user-attachments/assets/ca4e6085-42ef-4a9d-8c43-6a24519a49cf)
  
 
 **Technologies Used:**
